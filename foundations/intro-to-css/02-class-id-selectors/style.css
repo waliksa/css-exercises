@@ -1,0 +1,19 @@
+.paragraph {
+  background-color: #ffc0cb;
+  font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+.paragraph.cooler {
+    font-size: 24px;
+}
+
+#number-two {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#number-four {
+    background-color: #008000;
+    font-size: 24px;
+    font-weight: bold;
+}
